@@ -10,7 +10,7 @@ namespace SaveEditor.Structs
     [StructLayout(LayoutKind.Sequential, Pack = 1, Size = SIZE)]
     public struct Activities
     {
-        public const int SIZE = 0x56A;
+        public const int SIZE = 0x56C;
 
         public int field_0, field_4, field_8;
 
